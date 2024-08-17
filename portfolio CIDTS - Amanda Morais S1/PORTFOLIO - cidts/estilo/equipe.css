@@ -1,0 +1,221 @@
+.corpoequipe {
+    width: 100%;
+    background-color:#212121;
+    min-height: 80vh;
+    position: absolute;
+    top: 100px;
+    bottom: 0px;
+    flex-wrap: wrap;
+    height: auto;
+    flex-direction: column;
+}
+
+.texto1_equipe{
+    width: 100%;
+    background-color:#212121;
+    height: 250px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 19px;
+    padding: 100px;
+    box-sizing: border-box;
+}
+
+.div_coordenadores{
+    height: 800px;
+    width: 100%;
+    background-color:#212121;
+   
+}
+
+.div_titulo_coordenadores{
+    width: 100%;
+    height: 15%;
+    background-color:#212121;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+
+.div_cards_coordenadores{
+    width: 100%;
+    height:42.5% ;
+    background-color:#212121;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.coordenadores_perfil{
+    width: 28.7%;
+    height: 60%;
+    background-color:#212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.borda_coordenadores{
+    height: 90%;
+    width: 40%;
+    background-color: #F1C36B;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+}
+
+
+.descricao_coordenadores{
+    height: 100%;
+    width: 55%;
+    background-color:#212121;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: white;
+    font-family: 'Montserrat';
+}
+
+.nick_coordenador{
+    color: #F1C36B;
+    font-family: 'Montserrat';
+}
+
+
+
+.div_pesquisadores{
+    height: 1200px;
+    width: 100%;
+    background-color:#212121;
+}
+
+
+.div_titulo_pesquisadores{
+    width: 100%;
+    height: 10%;
+    background-color:#212121;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+}
+
+.div_cards_pesquisadores{
+    width: 100%;
+    height:260px ;
+    background-color:#212121;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.pesquisadores_perfil{
+    width: 280px;
+    height: 156px;
+    background-color:#212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borda_pesquisadores{
+    height: 90%;
+    width: 45%;
+    background-color: #185648;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+}
+
+.descricao_pesquisadores{
+    height: 100%;
+    width: 55%;
+    background-color:#212121;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: #F1C36B;
+    font-family: 'Montserrat';
+}
+
+
+
+
+
+
+
+.div_estudantes{
+    height: 1600px;
+    width: 100%;
+    background-color:#212121;
+}
+
+.div_titulo_estudantes{
+    width: 100%;
+    height: 7.5%;
+    background-color:#212121;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+}
+
+.div_cards_estudantes{
+    width: 100%;
+    height:15.5% ;
+    background-color:#212121;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.estudantes_perfil{
+    width: 280px;
+    height: 156px;
+    background-color:#212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borda_estudantes{
+    height: 90%;
+    width: 45%;
+    background-color: #DA4A28;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+}
+
+.descricao_estudantes{
+    height: 100%;
+    width: 55%;
+    background-color:#212121;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    color: #F1C36B;
+    font-family: 'Montserrat';
+}

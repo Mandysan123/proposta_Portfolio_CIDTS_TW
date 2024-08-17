@@ -1,0 +1,6 @@
+SITES E INSPIRAÇÕES UTILIZADAS PARA FAZER O PORTFOLIO CIDTS
+
+- dribbble (inspiração de designs) https://dribbble.com/
+- figma (prototipagem e inspiração de designs https://www.figma.com
+- google imagens (inspirações) 
+- chatgpt (dúvidas e tirei o modal e a animação dele)
